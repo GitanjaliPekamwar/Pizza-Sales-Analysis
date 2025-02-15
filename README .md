@@ -1,4 +1,3 @@
-
 # Overview
 
 This project focuses on analyzing pizza sales data using SQL to extract meaningful business insights. The analysis includes evaluating total sales and revenue trends to understand overall performance, identifying the top-selling pizzas, and examining sales by category and size to determine customer preferences and many more.By leveraging SQL queries, this project provides valuable insights to support data-driven decision-making and optimize sales strategies. The analysis is i did using MySQL.
